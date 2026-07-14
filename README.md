@@ -3,7 +3,7 @@
 
 Todos los archivos modificables de este repositorio son con extensión `.excalidraw`
 
-**Prototipo de Figma (solo puedes verlo si tienes acceso al figma)**: [SAFE_Sketches](https://www.figma.com/proto/NiwR71SCnzhLOaf42uKUry/SAFE_Sketches?node-id=5-3&p=f&t=CjPW5oTCBtEzZlSM-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A3).
+**Prototipo de Figma público**: [SAFE_Sketches](https://www.figma.com/proto/gckoBaLhvMUNDtoeiuRjnx/SAFE_Sketches--Community-?node-id=0-1&p=f&t=s75TCQIxKYZnz8yD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=59%3A6).
 
 ## Guía  para este repositorio
 
